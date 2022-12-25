@@ -1,0 +1,38 @@
+.imgDiv {
+  border-radius: 70px;
+  overflow: hidden;
+}
+
+.Flex {
+  display: flex;
+}
+
+.FontC1 {
+  width: 209px;
+  height: 36px;
+  font-family: "Arial";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 36px;
+  color: #181b32;
+  margin-top: 10px;
+}
+
+.FontC2 {
+  padding-top: 8px;
+  width: 304px;
+  top: 60.69%;
+  bottom: 0%;
+  font-family: "Arial";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 18px;
+  line-height: 190%;
+  color: #666680;
+}
+
+.MainCard {
+  width: fit-content;
+  height: fit-content;
+}

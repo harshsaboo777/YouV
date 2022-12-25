@@ -1,0 +1,8 @@
+.MoreInfoBody {
+  margin-top: 200px;
+}
+
+.MoreInfoQuestions {
+  display: flex;
+  justify-content: space-around;
+}

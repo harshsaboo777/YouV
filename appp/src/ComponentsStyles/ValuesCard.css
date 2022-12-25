@@ -1,0 +1,27 @@
+.ValuesCardBody {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  width: 300px;
+  height: 300px;
+}
+
+.ValuesCardFont1 {
+  font-family: "Arial";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 36px;
+  color: #181b32;
+}
+
+.ValuesCardFont2 {
+  font-family: "Arial";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 190%;
+  text-align: center;
+  color: #666680;
+}

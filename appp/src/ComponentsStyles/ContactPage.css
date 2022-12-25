@@ -1,0 +1,97 @@
+.ContactPageBody {
+  margin-top: 200px;
+}
+
+.ContactPageHead {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.ContactPageHeading1 {
+  width: 643px;
+  height: 62px;
+  font-family: "Arial";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 48px;
+  line-height: 130%;
+  text-align: center;
+  color: #181b32;
+}
+
+.ContactPageHeading2 {
+  width: 476px;
+  height: 34px;
+  font-family: "Arial";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 18px;
+  margin-top: 30px;
+  text-align: center;
+  color: #666680;
+}
+
+.ContactPageEmail {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 50px;
+}
+
+.ContactPageInputBox {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-right: 20px;
+  width: 380px;
+  height: 64px;
+  border: none;
+  background: #f8fafe;
+  border-radius: 73px;
+}
+
+.ContactPageInput {
+  font-family: "Arial";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 18px;
+  line-height: 190%;
+  color: #b0b0c0;
+  width: 300px;
+  background: #f8fafe;
+  border: none;
+  outline: none;
+}
+
+.ContactPageInput::placeholder {
+  font-family: "Arial";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 18px;
+  line-height: 190%;
+  color: #b0b0c0;
+  width: 300px;
+  border-style: none;
+}
+
+.ContactPageSubmit {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  width: 110px;
+  height: 64px;
+  border: none;
+  background: #524fd5;
+  border-radius: 73px;
+}
+
+.ContactPageFont1 {
+  font-family: "Arial";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  text-align: center;
+  color: #ffffff;
+}

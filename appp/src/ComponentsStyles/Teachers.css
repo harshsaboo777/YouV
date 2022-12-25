@@ -1,0 +1,20 @@
+.TeachersBody {
+  margin-top: 200px;
+}
+
+.FontT1 {
+  font-family: "Arial";
+  font-style: normal;
+  font-weight: 3;
+  font-size: 48px;
+  color: #181b32;
+  margin-bottom: 30px;
+}
+
+.FontT2 {
+  font-family: "Arial";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  color: #b0b0c0;
+}

@@ -1,0 +1,55 @@
+.StudentBody {
+  margin-top: 200px;
+  display: flex;
+}
+
+.imgSDiv {
+  width: 502px;
+  height: 633px;
+  left: -25px;
+  top: 0px;
+  border-radius: 70px;
+  overflow: hidden;
+  background: #fceae3;
+}
+
+.StudentInfo {
+  padding-top: 200px;
+  padding-left: 150px;
+}
+
+.FontS1 {
+  width: 243px;
+  height: 36px;
+  font-family: "Arial";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 36px;
+  color: #181b32;
+}
+
+.FontS2 {
+  width: 158px;
+  height: 34px;
+  font-family: "Arial";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 18px;
+  line-height: 190%;
+  color: #666680;
+  padding-top: 8px;
+}
+
+.FontS3 {
+  margin-top: 50px;
+  width: 610px;
+  height: 188px;
+  font-family: "Arial";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 28px;
+  line-height: 180%;
+  color: #181b32;
+  mix-blend-mode: normal;
+}
